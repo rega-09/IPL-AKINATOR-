@@ -1,0 +1,767 @@
+name,country,overseas,role,batting_style,bowling_style,wicketkeeper,captain,active,aggressive_batter,opener,finisher,death_bowler,spinner,fast_bowler,orange_cap,purple_cap,teams,title_winner,retired
+SC Ganguly,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, PW",No,Yes
+BB McCullum,New Zealand,Yes,Wicketkeeper,Left-hand,None,Yes,Yes,No,No,Yes,No,No,No,No,No,No,"CSK, GL, KKR, KTK, RCB",No,Yes
+RT Ponting,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"KKR, MI",No,Yes
+DJ Hussey,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, KKR, PBKS",No,Yes
+Mohammad Hafeez,Pakistan,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+R Dravid,India,No,Batter,Right-hand,None,No,Yes,No,No,Yes,No,No,No,No,No,No,"RCB, RR",No,Yes
+W Jaffer,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RCB,No,Yes
+V Kohli,India,No,Batter,Right-hand,Medium Pace,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,RCB,No,No
+JH Kallis,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,"KKR, RCB",No,Yes
+CL White,England,Yes,Batter,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, RCB, SRH",No,Yes
+MV Boucher,South Africa,Yes,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,"KKR, RCB",No,Yes
+B Akhil,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KTK, RCB",No,Yes
+AA Noffke,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+P Kumar,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"GL, MI, PBKS, RCB, SRH",No,Yes
+Z Khan,India,No,Bowler,Right-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, RCB",No,Yes
+SB Joshi,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+PA Patel,India,No,Wicketkeeper,Right-hand,None,Yes,No,No,No,Yes,No,No,No,No,No,No,"CSK, DC_Old, KTK, MI, RCB, SRH",No,Yes
+ML Hayden,Australia,Yes,Batter,Left-hand,None,No,No,No,No,Yes,No,No,No,No,Yes,No,CSK,No,Yes
+MEK Hussey,Australia,Yes,Batter,Left-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"CSK, MI",No,Yes
+MS Dhoni,India,No,Wicketkeeper,Right-hand,None,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"CSK, RPS",No,No
+SK Raina,India,No,All-Rounder,Left-hand,Off Spin,No,Yes,No,No,No,No,No,Yes,No,Yes,No,"CSK, GL",No,Yes
+JDP Oram,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, MI, RR",No,Yes
+S Badrinath,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,CSK,No,Yes
+K Goel,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,PBKS,No,Yes
+JR Hopes,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,"DC, PBKS",No,Yes
+KC Sangakkara,Sri Lanka,Yes,Wicketkeeper,Left-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,"DC_Old, PBKS, SRH",No,Yes
+Yuvraj Singh,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, PBKS, PW, RCB, SRH",No,Yes
+SM Katich,Australia,Yes,Batter,Left-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,PBKS,No,Yes
+IK Pathan,India,No,Bowler,Left-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, GL, PBKS, RPS, SRH",No,Yes
+T Kohli,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"PBKS, RR",No,Yes
+YK Pathan,India,No,All-Rounder,Left-hand,Medium Pace,No,Yes,No,No,No,No,No,No,Yes,No,No,"KKR, RR, SRH",No,Yes
+SR Watson,Australia,Yes,Bowler,Right-hand,Medium Pace,No,Yes,No,No,No,No,No,No,Yes,No,No,"CSK, RCB, RR",No,Yes
+M Kaif,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"PBKS, RCB, RR",No,Yes
+DS Lehmann,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+RA Jadeja,India,No,Bowler,Left-hand,Left-arm Spin,No,No,Yes,No,No,Yes,No,Yes,No,No,No,"CSK, GL, KTK, RR",No,No
+M Rawat,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"PW, RR",No,Yes
+D Salunkhe,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+SK Warne,Australia,Yes,Bowler,Right-hand,Spin,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+SK Trivedi,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+G Gambhir,India,No,Batter,Left-hand,None,No,Yes,No,No,Yes,No,No,No,No,Yes,No,"DC, KKR",No,Yes
+V Sehwag,India,No,Batter,Right-hand,Medium Pace,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,"DC, PBKS",No,Yes
+S Dhawan,India,No,Batter,Left-hand,Medium Pace,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,"DC, DC_Old, MI, PBKS, SRH",No,No
+L Ronchi,New Zealand,Yes,Wicketkeeper,Right-hand,None,Yes,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+ST Jayasuriya,Sri Lanka,Yes,All-Rounder,Left-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,MI,No,Yes
+DJ Thornely,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+RV Uthappa,India,No,Wicketkeeper,Left-hand,None,Yes,Yes,No,No,No,No,No,No,No,No,No,"CSK, KKR, MI, PW, RCB, RR",No,No
+PR Shah,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"MI, RR",No,Yes
+AM Nayar,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PBKS, PW, RR",No,Yes
+SM Pollock,South Africa,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+Harbhajan Singh,India,No,Bowler,Right-hand,Off Spin,No,No,No,No,No,Yes,No,Yes,No,No,No,"CSK, KKR, MI",No,Yes
+S Chanderpaul,West Indies,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RCB,No,Yes
+LRPL Taylor,New Zealand,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, PW, RCB, RR",No,Yes
+AC Gilchrist,Australia,Yes,Wicketkeeper,Left-hand,None,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,"DC_Old, PBKS",No,Yes
+Y Venugopal Rao,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, DC_Old, SRH",No,Yes
+VVS Laxman,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, KTK",No,Yes
+A Symonds,Australia,Yes,Bowler,Left-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,Yes,No,"DC_Old, MI",No,Yes
+RG Sharma,India,No,Batter,Right-hand,Medium Pace,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"DC_Old, MI",No,No
+SB Styris,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, DC_Old",No,Yes
+AS Yadav,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC_Old,No,Yes
+SB Bangar,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, KKR",No,Yes
+WPUJC Vaas,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+RP Singh,India,No,Bowler,Left-hand,Fast,No,No,No,No,No,No,Yes,No,Yes,No,Yes,"DC_Old, KTK, MI, RCB, RPS",No,Yes
+WP Saha,India,No,Wicketkeeper,Right-hand,None,Yes,No,Yes,No,No,No,No,No,No,No,No,"CSK, GT, KKR, PBKS, SRH",No,No
+LR Shukla,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR",No,Yes
+DPMD Jayawardene,Sri Lanka,Yes,Batter,Right-hand,None,No,Yes,No,No,No,No,No,No,No,No,No,"DC, KTK, PBKS",No,Yes
+S Sohal,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, PBKS",No,Yes
+B Lee,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"KKR, PBKS",No,Yes
+PP Chawla,India,No,Bowler,Right-hand,Leg Spin,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,"CSK, KKR, MI, PBKS",No,No
+WA Mota,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+Kamran Akmal,Pakistan,Yes,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+Shahid Afridi,Pakistan,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+DJ Bravo,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,"CSK, GL, MI",No,No
+MA Khote,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+A Nehra,India,No,Bowler,Right-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, DC, MI, PW, SRH",No,Yes
+GC Smith,South Africa,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"PW, RR",No,Yes
+Pankaj Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, RR",No,Yes
+RR Sarwan,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+S Sreesanth,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KTK, PBKS, RR",No,Yes
+VRV Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+SS Tiwary,India,No,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,"DC, MI, RCB, RPS",No,Yes
+DS Kulkarni,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"GL, MI, RR",No,Yes
+R Vinay Kumar,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"KKR, KTK, MI, RCB",No,Yes
+AB Agarkar,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR",No,Yes
+M Kartik,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, PBKS, PW, RCB",No,Yes
+I Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, DC_Old, GT, KKR, PBKS, RPS, SRH",No,No
+AM Rahane,India,No,Batter,Right-hand,None,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,"CSK, DC, KKR, MI, RPS, RR",No,No
+Shoaib Malik,Pakistan,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+MK Tiwary,India,No,Batter,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, PBKS, RPS",No,Yes
+KD Karthik,India,No,Wicketkeeper,Right-hand,None,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"DC, GL, KKR, MI, PBKS, RCB",No,No
+R Bhatia,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, RPS, RR",No,Yes
+MF Maharoof,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+VY Mahesh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, DC",No,Yes
+TM Srivastava,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+B Chipli,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, DC_Old, RCB",No,Yes
+DW Steyn,South Africa,Yes,Bowler,Left-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,Yes,"DC_Old, GL, RCB, SRH",No,Yes
+DB Das,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+MK Pandey,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,Yes,No,"DC, KKR, LSG, MI, PW, RCB, SRH",No,No
+HH Gibbs,South Africa,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, MI",No,Yes
+DNT Zoysa,Sri Lanka,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+D Kalyankrishna,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+SE Marsh,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,Yes,No,PBKS,No,Yes
+SA Asnodkar,India,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RR,No,Yes
+Sohail Tanvir,Pakistan,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+Salman Butt,Pakistan,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KKR,No,Yes
+BJ Hodge,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, KTK, RR",No,Yes
+Umar Gul,Pakistan,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+AB Dinda,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"DC, KKR, PW, RCB, RPS",No,Yes
+SP Fleming,New Zealand,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,CSK,No,Yes
+S Vidyut,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,CSK,No,Yes
+JA Morkel,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,Yes,No,No,Yes,No,No,"CSK, DC, RCB, RPS",No,Yes
+AB de Villiers,South Africa,Yes,Wicketkeeper,Right-hand,None,Yes,Yes,No,Yes,No,No,No,No,No,No,No,"DC, RCB",No,Yes
+Misbah-ul-Haq,Pakistan,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RCB,No,Yes
+YV Takawale,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"MI, RCB",No,Yes
+RR Raje,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+PJ Sangwan,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, GL, GT, KKR, MI",No,No
+Mohammad Asif,Pakistan,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+GD McGrath,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+Joginder Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+MS Gony,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, DC_Old, GL, PBKS",No,Yes
+M Muralitharan,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, KTK, RCB",No,Yes
+M Ntini,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+DT Patil,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RCB,No,Yes
+A Kumble,India,No,Bowler,Right-hand,Leg Spin,No,Yes,No,No,No,No,No,Yes,No,No,Yes,RCB,No,Yes
+S Anirudha,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"CSK, SRH",No,Yes
+MM Patel,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"GL, MI, RR",No,Yes
+CK Kapugedera,Sri Lanka,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+A Chopra,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KKR,No,Yes
+T Taibu,Zimbabwe,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+J Arunkumar,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RCB,No,Yes
+DB Ravi Teja,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, SRH",No,Yes
+PP Ojha,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, MI",No,Yes
+U Kaul,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+TM Dilshan,Sri Lanka,Yes,All-Rounder,Left-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, RCB",No,Yes
+A Mishra,India,No,Bowler,Right-hand,Leg Spin,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"DC, DC_Old, LSG, SRH",No,No
+AD Mascarenhas,England,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PBKS, RR",No,Yes
+NK Patel,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+LA Pomersbach,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"PBKS, RCB",No,Yes
+Iqbal Abdulla,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, RCB, RR",No,Yes
+SR Tendulkar,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,Yes,No,MI,No,Yes
+PM Sarvesh Kumar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+DP Vijaykumar,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+Shoaib Akhtar,Pakistan,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+Abdur Razzak,Bangladesh,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+LPC Silva,Sri Lanka,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+H Das,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC_Old,No,Yes
+SP Goswami,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"KKR, RCB, RR, SRH",No,Yes
+DR Smith,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,"CSK, DC_Old, GL, MI",No,Yes
+SD Chitnis,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PBKS, RR",No,Yes
+CRD Fernando,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+VS Yeligati,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+L Balaji,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"CSK, KKR, PBKS",No,Yes
+A Mukund,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"CSK, RCB",No,Yes
+Younis Khan,Pakistan,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+RR Powar,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KTK, PBKS",No,Yes
+JP Duminy,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, DC_Old, MI",No,Yes
+A Flintoff,England,Yes,Bowler,Left-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+T Thushara,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+JD Ryder,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,"PW, RCB",No,Yes
+KP Pietersen,England,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, RCB, RPS",No,Yes
+T Henderson,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+Kamran Khan,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PW, RR",No,Yes
+RS Bopara,England,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,"PBKS, SRH",No,Yes
+CH Gayle,West Indies,Yes,All-Rounder,Left-hand,Medium Pace,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,"KKR, PBKS, RCB",No,Yes
+MC Henriques,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, PBKS, RCB, SRH",No,Yes
+R Bishnoi,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RCB,No,Yes
+FH Edwards,West Indies,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+KV Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, MI, RCB, SRH",No,No
+PC Valthaty,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,"PBKS, RR",No,Yes
+RJ Quiney,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RR,No,Yes
+AS Raut,India,No,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+Yashpal Singh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+M Manhas,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, DC, PW",No,Yes
+AA Bilakhia,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC_Old,No,Yes
+AN Ghosh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+BAW Mendis,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, PW",No,Yes
+DL Vettori,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, RCB",No,Yes
+MN van Wyk,South Africa,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+RE van der Merwe,South Africa,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, RCB",No,Yes
+TL Suman,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, MI, PW",No,Yes
+Shoaib Ahmed,Pakistan,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+GR Napier,England,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+KP Appanna,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+LA Carseldine,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+NV Ojha,India,No,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,"DC, RR, SRH",No,Yes
+SM Harwood,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+M Vijay,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,"CSK, DC, PBKS",No,Yes
+SB Jakati,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, GL, RCB",No,Yes
+DA Warner,Australia,Yes,Batter,Left-hand,None,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,"DC, SRH",No,No
+RJ Harris,Australia,Yes,Batter,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"DC_Old, PBKS",No,Yes
+D du Preez,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+M Morkel,South Africa,Yes,Bowler,Right-hand,Fast,No,No,No,No,No,Yes,No,No,Yes,No,No,"DC, KKR, RR",No,Yes
+AD Mathews,Sri Lanka,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, PW",No,Yes
+J Botha,Sri Lanka,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, RR",No,Yes
+C Nanda,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+SL Malinga,Sri Lanka,Yes,Bowler,Right-hand,Fast,No,No,No,No,No,No,Yes,No,Yes,No,Yes,MI,No,Yes
+Mashrafe Mortaza,Bangladesh,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+A Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,RR,No,Yes
+GJ Bailey,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"CSK, PBKS, RPS",No,Yes
+AB McDonald,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, RCB",No,Yes
+Y Nagar,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+SS Shaikh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+R Ashwin,India,No,Bowler,Right-hand,Off Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"CSK, DC, PBKS, RPS, RR",No,No
+Mohammad Ashraful,Bangladesh,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,MI,No,Yes
+CA Pujara,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"KKR, PBKS, RCB",No,Yes
+OA Shah,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"KKR, KTK, RR",No,Yes
+Anirudh Singh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC_Old,No,Yes
+Jaskaran Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+AP Tare,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"DC, MI, SRH",No,Yes
+AT Rayudu,India,No,Batter,Right-hand,None,No,Yes,No,No,No,No,No,No,No,No,No,"CSK, MI",No,No
+R Sathish,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, MI, PBKS",No,Yes
+R McLaren,South Africa,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, MI, PBKS",No,Yes
+AA Jhunjhunwala,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, PW, RR",No,Yes
+P Dogra,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"KKR, PBKS, RR",No,Yes
+A Uniyal,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+MS Bisla,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"KKR, PBKS, RCB",No,Yes
+YA Abdulla,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+EJG Morgan,England,Yes,Batter,Left-hand,None,No,No,No,No,No,No,No,No,No,No,No,"KKR, PBKS, RCB, SRH",No,Yes
+JM Kemp,South Africa,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+S Tyagi,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+RS Gavaskar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+SE Bond,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+KA Pollard,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,Yes,No,Yes,No,No,No,No,Yes,No,No,MI,No,No
+S Ladda,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, GL, KKR",No,Yes
+DP Nannes,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"CSK, DC, RCB",No,Yes
+MJ Lumb,England,Yes,Batter,Left-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, RR",No,Yes
+DR Martyn,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+S Narwal,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, RR",No,Yes
+AB Barath,West Indies,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+Bipul Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PBKS, SRH",No,Yes
+FY Fazal,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+AC Voges,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+MD Mishra,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, PW",No,Yes
+UT Yadav,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, GT, KKR, RCB",No,No
+J Theron,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, PBKS, RR",No,Yes
+SJ Srivastava,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+KM Jadhav,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"CSK, DC, KTK, RCB, SRH",No,No
+R Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, DC_Old, PW",No,Yes
+Mandeep Singh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, PBKS, RCB",No,No
+SW Tait,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,RR,No,Yes
+KB Arun Karthik,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"CSK, RCB",No,Yes
+KAJ Roach,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+PD Collingwood,England,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+CK Langeveldt,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, RCB",No,Yes
+VS Malik,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PBKS, RR",No,Yes
+A Mithun,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+AP Dole,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+AN Ahmed,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, RCB",No,Yes
+RS Sodhi,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+DE Bollinger,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,CSK,No,Yes
+S Sriram,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, RCB",No,Yes
+B Sumanth,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC_Old,No,Yes
+C Madan,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+AG Paunikar,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RR,No,Yes
+MR Marsh,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, DC_Old, LSG, PW, RPS, SRH",No,No
+AJ Finch,Australia,Yes,Batter,Right-hand,None,No,Yes,No,No,Yes,No,No,No,Yes,No,No,"DC, GL, KKR, MI, PBKS, PW, RCB, RR, SRH",No,No
+STR Binny,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, RCB, RR",No,Yes
+Harmeet Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, PBKS, RR",No,Yes
+IR Jaggi,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"DC_Old, KKR",No,Yes
+DT Christian,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, DC_Old, RCB, RPS",No,Yes
+RV Gomez,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KTK, PW",No,Yes
+MA Agarwal,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,"DC, PBKS, RCB, RPS, SRH",No,No
+AUK Pathan,India,No,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+UBT Chand,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"DC, MI, RR",No,Yes
+DJ Jacobs,South Africa,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+Sunny Singh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+NJ Rimmington,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+AL Menaria,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+WD Parnell,South Africa,Yes,Bowler,Left-hand,Fast,No,No,No,No,No,No,Yes,No,Yes,No,No,"DC, PW, RCB",No,No
+JJ van der Wath,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+R Ninan,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+S Aravind,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+MS Wade,Australia,Yes,Wicketkeeper,Right-hand,None,Yes,No,Yes,No,No,No,No,No,No,No,No,"DC, GT",No,No
+TD Paine,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,PW,No,Yes
+SB Wagh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PW, RR",No,Yes
+AC Thomas,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PW,No,Yes
+JEC Franklin,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+Shakib Al Hasan,Bangladesh,Yes,Bowler,Left-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, SRH",No,Yes
+DH Yagnik,India,No,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+S Randiv,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+BJ Haddin,Australia,Yes,Wicketkeeper,Right-hand,None,Yes,No,No,No,Yes,No,No,No,No,No,No,KKR,No,Yes
+NLTC Perera,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,Yes,Yes,No,Yes,No,No,"CSK, KTK, MI, PBKS, RPS, SRH",No,Yes
+NL McCullum,New Zealand,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PW,No,Yes
+JE Taylor,New Zealand,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PW,No,Yes
+J Syed Mohammad,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+RN ten Doeschate,Netherland,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,Yes,No,No,Yes,No,No,KKR,No,Yes
+TR Birt,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC,No,Yes
+AG Murtaza,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PW",No,Yes
+Harpreet Singh,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"PBKS, PW",No,No
+M Klinger,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KTK,No,Yes
+AC Blizzard,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+I Malhotra,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+L Ablish,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+CA Ingram,South Africa,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC,No,Yes
+S Nadeem,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, SRH",No,Yes
+P Parameswaran,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KTK, RCB",No,Yes
+CJ Ferguson,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PW,No,Yes
+VR Aaron,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, GT, PBKS, RCB, RR",No,No
+AA Chavan,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+ND Doshi,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, RR",No,Yes
+B Kumar,India,No,Bowler,Left-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,"PW, RCB, SRH",No,No
+Y Gnaneswara Rao,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KTK,No,Yes
+S Rana,India,No,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"PW, RCB",No,Yes
+BA Bhatt,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+F du Plessis,South Africa,Yes,Batter,Left-hand,None,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,"CSK, DC, RCB, RPS",No,No
+RE Levi,South Africa,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+GJ Maxwell,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,"DC, MI, PBKS, RCB",No,No
+SPD Smith,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, PW, RPS, RR",No,Yes
+MN Samuels,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, PW",No,Yes
+SA Yadav,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,Yes,No,No,"KKR, MI",No,No
+KK Cooper,West Indies,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,RR,No,Yes
+JP Faulkner,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,Yes,Yes,No,Yes,No,No,"GL, PBKS, PW, RR",No,Yes
+HV Patel,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,"DC, PBKS, RCB, SRH",No,No
+DAJ Bracewell,New Zealand,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+DJ Harris,Australia,Yes,All-Rounder,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,DC_Old,No,Yes
+Ankit Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, RPS, RR, SRH",No,Yes
+SP Narine,West Indies,Yes,All-Rounder,Right-hand,Off Spin,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,KKR,No,No
+GB Hogg,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, RR",No,Yes
+RR Bhatkal,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+CJ McKay,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+N Saini,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+DA Miller,South Africa,Yes,Batter,Left-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"GT, LSG, PBKS, RR",No,No
+Azhar Mahmood,Pakistan,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"KKR, PBKS",No,Yes
+P Negi,India,No,Wicketkeeper,Right-hand,Medium Pace,Yes,No,No,No,No,No,No,No,Yes,No,No,"CSK, DC, RCB",No,Yes
+RJ Peterson,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+KMDN Kulasekara,Sri Lanka,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+A Ashish Reddy,India,No,Bowler,Right-hand,Medium Pace,No,No,No,Yes,No,Yes,No,No,Yes,No,No,"DC_Old, SRH",No,Yes
+V Pratap Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+BB Samantray,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"DC_Old, SRH",No,Yes
+MJ Clarke,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,PW,No,Yes
+Gurkeerat Singh,India,No,Batter,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PBKS, RCB",No,Yes
+AP Majumdar,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PW,No,Yes
+PA Reddy,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, SRH",No,Yes
+K Upadhyay,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PW,No,Yes
+P Awana,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+AD Russell,West Indies,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,"DC, KKR",No,No
+A Chandila,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+CA Lynn,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC_Old, KKR, MI",No,Yes
+Sunny Gupta,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+MC Juneja,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC,No,Yes
+KK Nair,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"DC, PBKS, RCB, RR",No,No
+GH Vihari,India,No,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, SRH",No,Yes
+MDKJ Perera,Sri Lanka,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RR,No,Yes
+R Shukla,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, RR",No,Yes
+B Laughlin,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,Yes,"CSK, RR",No,Yes
+AS Rajpoot,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, KKR, PBKS, RR",No,Yes
+M Vohra,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"LSG, PBKS, RCB, RR",No,No
+JD Unadkat,India,No,Bowler,Left-hand,Fast,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, KKR, LSG, MI, RCB, RPS, RR, SRH",No,No
+Mohammed Shami,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,No,No,Yes,No,Yes,"DC, GT, KKR, PBKS, SRH",No,No
+BMAJ Mendis,Sri Lanka,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+R Rampaul,South Africa,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+CH Morris,South Africa,Yes,Bowler,Right-hand,Fast,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,"CSK, DC, RCB, RR",No,Yes
+SV Samson,India,No,Wicketkeeper,Left-hand,None,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,"DC, RR",No,No
+SMSM Senanayake,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+BJ Rohrer,Australia,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+KL Rahul,India,No,Batter,Left-hand,None,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,"DC, LSG, PBKS, RCB, SRH",No,No
+Q de Kock,South Africa,Yes,Wicketkeeper,Left-hand,None,Yes,No,Yes,No,Yes,No,No,No,No,No,No,"DC, KKR, LSG, MI, RCB, SRH",No,No
+R Dhawan,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, PBKS",No,No
+MG Johnson,Australia,Yes,Bowler,Right-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,Yes,"KKR, MI, PBKS",No,Yes
+LJ Wright,England,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PW,No,Yes
+IC Pandey,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, PW",No,Yes
+X Thalaivan Sargunam,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,SRH,No,Yes
+DJG Sammy,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, SRH",No,Yes
+KW Richardson,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PW, RCB, RR",No,Yes
+MM Sharma,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"CSK, DC, GT, PBKS",No,No
+CM Gautam,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"DC, MI",No,Yes
+UA Birla,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PW,No,Yes
+Parvez Rasool,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"PW, RCB, SRH",No,Yes
+Sandeep Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"PBKS, RR, SRH",No,No
+S Kaul,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"DC, RCB, SRH",No,No
+Sachin Baby,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, RR",No,Yes
+PV Tambe,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"GL, RR",No,Yes
+NM Coulter-Nile,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"DC, KKR, MI, RR",No,No
+CJ Anderson,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, RCB",No,Yes
+NJ Maddinson,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RCB,No,Yes
+AR Patel,India,No,Bowler,Left-hand,Left-arm Spin,No,No,Yes,No,No,Yes,No,Yes,No,No,No,"DC, PBKS",No,No
+JJ Bumrah,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,MI,No,No
+JDS Neesham,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, PBKS, RR",No,No
+TG Southee,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"CSK, KKR, MI, RCB, RR",No,No
+MA Starc,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"DC, KKR, RCB",No,No
+BR Dunk,Australia,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+RR Rossouw,South Africa,Yes,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,"DC, PBKS, RCB",No,No
+Shivam Sharma,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+YS Chahal,India,No,Bowler,Right-hand,Leg Spin,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"MI, PBKS, RCB, RR",No,No
+LMP Simmons,West Indies,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,MI,No,Yes
+VH Zol,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RCB,No,Yes
+BCJ Cutting,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, RR, SRH",No,Yes
+Imran Tahir,South Africa,Yes,Bowler,Right-hand,Leg Spin,No,No,No,No,No,No,No,Yes,No,No,No,"CSK, DC, RPS",No,Yes
+BE Hendricks,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+S Gopal,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RR, SRH",No,No
+M de Lange,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, MI",No,Yes
+R Tewatia,India,No,Bowler,Right-hand,Leg Spin,No,No,Yes,No,No,Yes,No,Yes,No,No,No,"DC, GT, PBKS, RR",No,No
+JO Holder,West Indies,Yes,Bowler,Left-hand,Medium Pace,No,Yes,No,No,No,No,No,No,Yes,No,No,"CSK, KKR, LSG, RR, SRH",No,No
+Karanveer Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+SS Iyer,India,No,Batter,Right-hand,None,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"DC, KKR, PBKS",No,No
+DJ Hooda,India,No,Wicketkeeper,Right-hand,Off Spin,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"CSK, LSG, PBKS, RR, SRH",No,No
+Anureet Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, PBKS, RR",No,Yes
+KS Williamson,New Zealand,Yes,Batter,Right-hand,None,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"GT, SRH",No,No
+SA Abbott,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, SRH",No,No
+J Suchith,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, SRH",No,No
+HH Pandya,India,No,Bowler,Left-hand,Medium Pace,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,"GT, MI",No,No
+D Wiese,Namibia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, RCB",No,No
+SN Khan,India,No,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,Yes,No,No,"DC, PBKS, RCB",No,No
+MJ McClenaghan,New Zealand,Yes,Bowler,Right-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+DJ Muthuswami,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+PJ Cummins,Australia,Yes,Bowler,Right-hand,Fast,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,"DC, KKR, SRH",No,No
+RG More,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+SN Thakur,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,"CSK, DC, KKR, LSG, PBKS, RPS",No,No
+JC Buttler,England,Yes,Wicketkeeper,Right-hand,None,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"GT, MI, RR",No,No
+CR Brathwaite,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, SRH",No,Yes
+MP Stoinis,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, LSG, PBKS, RCB",No,No
+Ishan Kishan,India,No,Wicketkeeper,Left-hand,None,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,"GL, MI, SRH",No,No
+C Munro,New Zealand,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR",No,Yes
+P Sahu,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+KH Pandya,India,No,Bowler,Left-hand,Medium Pace,No,No,Yes,No,No,Yes,No,No,Yes,No,No,"LSG, MI, RCB",No,No
+AD Nath,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"GL, PBKS, RCB",No,Yes
+MJ Guptill,New Zealand,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"MI, PBKS, SRH",No,Yes
+KJ Abbott,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+TM Head,Australia,Yes,Batter,Right-hand,Medium Pace,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,"RCB, SRH",No,No
+M Ashwin,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PBKS, RCB, RPS, RR",No,No
+NS Naik,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"KKR, PBKS",No,Yes
+RR Pant,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,"DC, LSG",No,No
+SW Billings,England,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"CSK, DC, KKR",No,No
+KC Cariappa,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"KKR, PBKS",No,Yes
+PSP Handscomb,Australia,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RPS,No,Yes
+Swapnil Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, PBKS, RCB",No,No
+J Yadav,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, GT, MI",No,No
+UT Khawaja,Australia,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RPS,No,Yes
+HM Amla,South Africa,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,PBKS,No,Yes
+F Behardien,South Africa,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+BB Sran,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PBKS, RR, SRH",No,Yes
+A Zampa,Australia,Yes,Bowler,Right-hand,Leg Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"RCB, RPS, RR, SRH",No,No
+N Rana,India,No,Batter,Left-hand,Off Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"KKR, MI, RR",No,No
+S Kaushik,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,GL,No,Yes
+ER Dwivedi,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,GL,No,Yes
+CJ Jordan,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"CSK, MI, PBKS, RCB, SRH",No,No
+TS Mills,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, RCB",No,No
+A Choudhary,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+BA Stokes,England,Yes,All-Rounder,Left-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, RPS, RR",No,No
+JJ Roy,England,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC, GL, KKR, SRH",No,No
+Vishnu Vinod,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"MI, RCB",No,No
+Basil Thampi,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"GL, MI, SRH",No,No
+CR Woakes,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"DC, KKR, RCB",No,Yes
+RA Tripathi,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, KKR, RPS, RR, SRH",No,No
+DL Chahar,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, MI, RPS",No,No
+V Shankar,India,No,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, DC, GT, SRH",No,No
+Rashid Khan,Afghanistan,Yes,Bowler,Right-hand,Leg Spin,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,"GT, SRH",No,No
+RD Chahar,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, PBKS, RPS, SRH",No,No
+LH Ferguson,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"GT, KKR, PBKS, RCB, RPS",No,No
+C de Grandhomme,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,Yes,No,No,Yes,No,No,"KKR, RCB",No,Yes
+AF Milne,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, MI, RCB",No,No
+S Badree,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, RCB, RR",No,Yes
+Mohammad Nabi,Afghanistan,Yes,Bowler,Left-hand,Off Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"MI, SRH",No,No
+AJ Tye,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,"GL, LSG, PBKS, RR",No,No
+K Rabada,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"DC, GT, PBKS",No,No
+Kuldeep Yadav,India,No,Bowler,Right-hand,Left-arm Wrist Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"DC, KKR",No,No
+Washington Sundar,India,No,Bowler,Right-hand,Off Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"GT, RCB, RPS, SRH",No,No
+DM Bravo,West Indies,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+AR Bawne,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC,No,Yes
+SP Jackson,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,No
+Ankit Soni,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,GL,No,Yes
+TA Boult,New Zealand,Yes,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, KKR, MI, RR, SRH",No,No
+E Lewis,West Indies,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"LSG, MI, RR",No,No
+MA Wood,England,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, LSG",No,No
+RK Singh,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,No,No,No,KKR,No,No
+DJM Short,Australia,Yes,All-Rounder,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,RR,No,Yes
+K Gowtham,India,No,Bowler,Right-hand,Off Spin,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,"LSG, PBKS, RR",No,No
+TK Curran,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR, RR",No,Yes
+M Markande,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RR, SRH",No,No
+B Stanlake,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, SRH",No,Yes
+Mujeeb Ur Rahman,Afghanistan,Yes,Bowler,Right-hand,Off Spin,No,No,Yes,No,No,No,No,Yes,No,No,No,"MI, PBKS, SRH",No,No
+A Dananjaya,Sri Lanka,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,Yes,No,No,No,MI,No,Yes
+Shubman Gill,India,No,Batter,Left-hand,None,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,"GT, KKR",No,No
+Shivam Mavi,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,Yes,No,Yes,No,No,KKR,No,No
+Mohammed Siraj,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"GT, RCB, SRH",No,No
+H Klaasen,South Africa,Yes,Wicketkeeper,Left-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,"RCB, RR, SRH",No,No
+RK Bhui,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"DC, SRH",No,No
+JC Archer,England,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,"MI, RR",No,No
+PP Shaw,India,No,Wicketkeeper,Right-hand,None,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,DC,No,No
+LE Plunkett,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+Mustafizur Rahman,Bangladesh,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"CSK, DC, MI, RR, SRH",No,No
+AD Hales,England,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,SRH,No,Yes
+MK Lomror,India,No,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"RCB, RR",No,No
+DR Shorey,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,CSK,No,Yes
+MM Ali,England,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, KKR, RCB",No,No
+M Prasidh Krishna,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"GT, KKR, RR",No,No
+P Chopra,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,Yes
+JPR Scantlebury-Searles,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+Abhishek Sharma,India,No,All-Rounder,Right-hand,Medium Pace,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,"DC, SRH",No,No
+IS Sodhi,New Zealand,Yes,Bowler,Right-hand,Leg Spin,No,No,No,No,No,No,No,Yes,No,No,No,RR,No,Yes
+SO Hetmyer,West Indies,Yes,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,No,No,No,"DC, RCB, RR",No,No
+S Dube,India,No,Batter,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, RCB, RR",No,No
+Navdeep Saini,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, RR",No,No
+JM Bairstow,England,Yes,Batter,Right-hand,None,No,No,Yes,Yes,Yes,No,No,No,No,No,No,"MI, PBKS, SRH",No,No
+KMA Paul,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+Rasikh Salam,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, KKR, MI, RCB",No,No
+N Pooran,West Indies,Yes,Wicketkeeper,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,"LSG, PBKS, SRH",No,No
+P Ray Barman,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+SM Curran,England,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"CSK, PBKS",No,No
+GC Viljoen,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+Avesh Khan,India,No,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"DC, LSG, RCB, RR",No,No
+S Lamichhane,Nepal,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+HF Gurney,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+SD Lad,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,MI,No,Yes
+AS Joseph,West Indies,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, MI, RCB",No,No
+R Parag,India,No,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,RR,No,No
+MJ Santner,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, MI",No,No
+JL Denly,England,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KKR,No,Yes
+LS Livingstone,England,Yes,All-Rounder,Left-hand,Medium Pace,No,No,Yes,Yes,No,No,No,No,Yes,No,No,"PBKS, RCB, RR",No,No
+KK Ahmed,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, DC, SRH",No,No
+AJ Turner,Australia,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"LSG, RR",No,No
+Harpreet Brar,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,PBKS,No,No
+SE Rutherford,West Indies,Yes,Batter,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, GT, RCB",No,No
+Y Prithvi Raj,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+P Simran Singh,India,No,Batter,Right-hand,None,No,No,Yes,Yes,Yes,No,No,No,No,No,No,PBKS,No,No
+JL Pattinson,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+A Nortje,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"DC, KKR",No,No
+D Padikkal,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"LSG, RCB, RR",No,No
+JR Philippe,Australia,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,RCB,No,Yes
+PK Garg,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"DC, SRH",No,No
+T Natarajan,India,No,Bowler,Left-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,"DC, PBKS, SRH",No,No
+YBK Jaiswal,India,No,Batter,Right-hand,None,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,RR,No,No
+RD Gaikwad,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,Yes,No,CSK,No,No
+Abdul Samad,India,No,Batter,Left-hand,Medium Pace,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,"LSG, SRH",No,No
+KL Nagarkoti,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR",No,No
+Ravi Bishnoi,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, PBKS",No,No
+I Udana,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+CV Varun,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"KKR, PBKS",No,No
+SS Cottrell,West Indies,Yes,Bowler,Left-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+Arshdeep Singh,India,No,Bowler,Left-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,No,PBKS,No,No
+Kartik Tyagi,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, RR, SRH",No,No
+N Jagadeesan,India,No,Wicketkeeper,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"CSK, KKR",No,No
+AT Carey,Australia,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC,No,Yes
+T Banton,England,Yes,Wicketkeeper,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,KKR,No,Yes
+TU Deshpande,India,No,Bowler,Left-hand,Fast,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"CSK, DC, RR",No,No
+P Dubey,India,No,All-Rounder,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, PBKS",No,No
+Shahbaz Ahmed,India,No,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, RCB, SRH",No,No
+DR Sams,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC, MI, RCB",No,No
+M Jansen,South Africa,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, PBKS, SRH",No,No
+RM Patidar,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,RCB,No,No
+KA Jamieson,New Zealand,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"PBKS, RCB",No,No
+M Shahrukh Khan,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,"GT, PBKS",No,No
+JA Richardson,Australia,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, PBKS",No,No
+Lalit Yadav,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,DC,No,No
+Virat Singh,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,SRH,No,Yes
+FA Allen,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PBKS",No,No
+C Sakariya,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, KKR, RR",No,No
+DJ Malan,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,PBKS,No,Yes
+Anmolpreet Singh,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,"MI, SRH",No,No
+KS Bharat,India,No,Wicketkeeper,Right-hand,None,Yes,No,No,No,No,No,No,No,No,No,No,"DC, RCB",No,No
+Hassaranga,Sri Lanka,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"RCB, RR",No,No
+VR Iyer,India,No,Batter,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,KKR,No,No
+AK Markram,South Africa,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, PBKS, SRH",No,No
+Tim David,Australia,Yes,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,No,No,No,"MI, RCB",No,No
+T Shamsi,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"RCB, RR",No,Yes
+NT Ellis,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, PBKS",No,No
+TL Seifert,New Zealand,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,"DC, KKR",No,No
+GD Phillips,New Zealand,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"RR, SRH",No,No
+GHS Garton,England,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+RV Patel,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,No
+K Yadav,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,No
+Anuj Rawat,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"RCB, RR",No,No
+DP Conway,New Zealand,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,CSK,No,No
+Tilak Varma,India,No,Batter,Left-hand,None,No,No,Yes,No,No,No,No,Yes,No,No,No,MI,No,No
+R Powell,West Indies,Yes,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,"DC, KKR, RR",No,No
+PBB Rajapaksa,Sri Lanka,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,Yes,No,PBKS,No,No
+RA Bawa,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"MI, PBKS",No,No
+A Badoni,India,No,Batter,Right-hand,Medium Pace,No,No,Yes,No,No,Yes,No,No,Yes,No,No,LSG,No,No
+PVD Chameera,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"DC, KKR, LSG",No,No
+A Manohar,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"GT, SRH",No,No
+R Shepherd,West Indies,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, MI, RCB, SRH",No,No
+DJ Willey,England,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, RCB",No,No
+D Pretorius,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,No
+JM Sharma,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,"PBKS, RCB",No,No
+VG Arora,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"KKR, PBKS",No,No
+Mukesh Choudhary,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,CSK,No,No
+Umran Malik,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+D Brevis,South Africa,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, MI",No,No
+B Sai Sudharsan,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,GT,No,No
+Ramandeep Singh,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,"KKR, MI",No,No
+HE van der Dussen,South Africa,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,No
+SS Prabhudessai,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,RCB,No,No
+Akash Deep,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, RCB",No,No
+JR Hazlewood,Australia,Yes,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, RCB",No,No
+KR Sen,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,RR,No,No
+Aman Hakim Khan,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"DC, KKR",No,No
+HR Shokeen,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,No
+Yash Dayal,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, RCB",No,No
+DJ Mitchell,New Zealand,Yes,All-Rounder,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, RR",No,No
+Shashank Singh,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,"PBKS, SRH",No,No
+B Indrajith,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KKR,No,No
+Harshit Rana,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,KKR,No,No
+Mohsin Khan,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,LSG,No,No
+Simarjeet Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, SRH",No,No
+M Theekshana,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, RR",No,No
+AS Roy,England,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"KKR, MI",No,No
+Fazalhaq Farooqi,Afghanistan,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"RR, SRH",No,No
+K Kartikeya,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RR",No,No
+RP Meredith,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"MI, PBKS",No,No
+KS Sharma,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,LSG,No,No
+T Stubbs,South Africa,Yes,Batter,Right-hand,None,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,"DC, MI",No,No
+R Sanjay Yadav,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,No
+A Tomar,India,No,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KKR,No,No
+PN Mankad,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,"LSG, PBKS",No,No
+OC McCoy,West Indies,Yes,Bowler,Right-hand,Fast,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,No
+Sikandar Raza,Afghanistan,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,PBKS,No,No
+Rahmanullah Gurbaz,Afghanistan,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,KKR,No,No
+KR Mayers,West Indies,Yes,All-Rounder,Right-hand,Medium Pace,No,No,No,No,Yes,No,No,No,Yes,No,No,LSG,No,No
+Mukesh Kumar,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,DC,No,No
+Harry Brook,England,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,SRH,No,No
+AU Rashid,England,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"PBKS, SRH",No,No
+C Green,Australia,Yes,All-Rounder,Right-hand,Medium Pace,No,No,Yes,Yes,No,No,No,No,Yes,No,No,"MI, RCB",No,No
+N Wadhera,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, PBKS",No,No
+Arshad Khan,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, LSG, MI",No,No
+Abishek Porel,India,No,Batter,Right-hand,None,No,No,Yes,Yes,No,No,No,No,No,No,No,DC,No,No
+Dhruv Jurel,India,No,Wicketkeeper,Left-hand,None,Yes,No,Yes,Yes,No,No,No,No,No,No,No,RR,No,No
+MG Bracewell,New Zealand,Yes,All-Rounder,Right-hand,Spin,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,No
+Matthew William Short,Australia,Yes,All-Rounder,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,No
+Mohit Rathee,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,No
+YV Dhull,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,DC,No,No
+Yudhvir Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, RR",No,No
+Atharva Taide,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,Yes,No,No,"PBKS, SRH",No,No
+Liton Das,Bangladesh,Yes,Batter,Right-hand,None,No,No,No,No,Yes,No,No,No,No,No,No,KKR,No,No
+PD Salt,England,Yes,Batter,Right-hand,None,No,No,Yes,Yes,Yes,No,No,No,No,No,No,"DC, KKR, RCB",No,No
+Vijaykumar Vyshak,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"PBKS, RCB",No,No
+Abdul Basith,India,No,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,RR,No,No
+Arjun Tendulkar,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+JP Behrendorff,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,No
+AJ Hosein,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,SRH,No,No
+Naveen-ul-Haq,Afghanistan,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,LSG,No,No
+Noor Ahmad,Afghanistan,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, GT",No,No
+JE Root,England,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,No
+KM Asif,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, RR",No,No
+MD Shanaka,Sri Lanka,Yes,Batter,Right-hand,None,No,No,No,No,No,No,No,No,No,No,No,GT,No,No
+Sanvir Singh,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,SRH,No,No
+Vivrant Sharma,India,No,Bowler,Right-hand,None,No,No,No,No,Yes,No,No,No,Yes,No,No,SRH,No,No
+DG Nalkande,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,GT,No,No
+R Ravindra,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,Yes,No,No,CSK,No,No
+SD Hope,West Indies,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,DC,No,No
+Sumit Kumar,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,DC,No,No
+Azmatullah Omarzai,Afghanistan,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, PBKS",No,No
+Naman Dhir,India,No,All-Rounder,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+G Coetzee,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, MI",No,No
+SZ Mulani,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+Sameer Rizvi,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"CSK, DC",No,No
+SH Johnson,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, KKR",No,No
+Akash Madhwal,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RR",No,No
+SB Dubey,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,RR,No,No
+Mayank Dagar,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"RCB, SRH",No,No
+RJW Topley,England,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RCB",No,No
+A Raghuvanshi,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,KKR,No,No
+Ashutosh Sharma,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"DC, PBKS",No,No
+Nithish Kumar Reddy,India,No,All-Rounder,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+Saurav Chauhan,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,RCB,No,No
+Kumar Kushagra,Sri Lanka,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,DC,No,No
+BR Sharath,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,GT,No,No
+WG Jacks,England,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RCB",No,No
+J Fraser-McGurk,Australia,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,DC,No,No
+Tanush Kotian,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,RR,No,No
+KA Maharaj,South Africa,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,RR,No,No
+Arshad Khan (2),India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No
+R Sai Kishore,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,GT,No,No
+L Wood,England,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+LB Williams,South Africa,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,DC,No,No
+AA Kulkarni,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,LSG,No,No
+MJ Suthar,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,GT,No,No
+RJ Gleeson,England,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, MI",No,No
+Gulbadin Naib,Afghanistan,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,DC,No,No
+D Ferreira,South Africa,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,"DC, RR",No,No
+A Kamboj,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, MI",No,No
+T Kohler-Cadmore,England,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,RR,No,No
+Shivam Singh,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,PBKS,No,No
+V Viyaskanth,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+Aniket Verma,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,SRH,No,No
+RD Rickelton,South Africa,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,MI,No,No
+R Minz,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,MI,No,No
+PVSN Raju,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+V Nigam,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,DC,No,No
+Priyansh Arya,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,PBKS,No,No
+PWA Mulder,South Africa,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+J Overton,England,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,CSK,No,No
+Kamindu Mendis,Sri Lanka,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+Suryansh Shedge,India,No,All-Rounder,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,PBKS,No,No
+SK Rasheed,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,CSK,No,No
+JP Inglis,England,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,PBKS,No,No
+XC Bartlett,Australia,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,PBKS,No,No
+MS Bhandage,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,RCB,No,No
+V Suryavanshi,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,RR,No,No
+A Mhatre,India,No,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,CSK,No,No
+C Bosch,South Africa,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+Prince Yadav,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No
+DS Rathi,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No
+JG Bethell,England,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,RCB,No,No
+KS Rathore,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,RR,No,No
+Urvil Patel,India,No,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,CSK,No,No
+MJ Owen,Australia,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,PBKS,No,No
+KT Maphaka,South Africa,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RR",No,No
+M Tiwari,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,DC,No,No
+L Ngidi,South Africa,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, RCB",No,No
+Sediqullah Atal,Afghanistan,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,DC,No,No
+MP Breetzke,South Africa,Yes,Batter,Right-hand,None,No,No,Yes,No,Yes,No,No,No,No,No,No,LSG,No,No
+Musheer Khan,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,PBKS,No,No
+BKG Mendis,Sri Lanka,Yes,Batter,Right-hand,None,No,No,Yes,No,No,No,No,No,No,No,No,GT,No,No
+P Amarnath,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+B Geeves,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+Gagandeep Singh,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+André Nel,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+AM Salvi,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+RR Bose,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+SS Sarkar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+RA Shaikh,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+C Ganapathy,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+MB Parmar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+AA Kazi,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RCB,No,Yes
+Anand Rajan,India,No,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,"DC_Old, SRH",No,Yes
+P Prasanth,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KTK,No,Yes
+SS Mundhe,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PW,No,Yes
+RW Price,Zimbabwe,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+TP Sudhindra,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC_Old,No,Yes
+BW Hilfenhaus,Australia,Yes,Bowler,Right-hand,Medium Pace,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+P Suyal,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+MG Neser,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+K Santokie,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,Yes
+JW Hastings,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,"CSK, KKR",No,Yes
+GS Sandhu,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+SM Boland,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RPS,No,Yes
+Tejas Baroka,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,GL,No,Yes
+SS Agarwal,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,GL,No,Yes
+NB Singh,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,GL,No,Yes
+MJ Henry,New Zealand,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"LSG, PBKS",No,No
+K Khejroliya,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, KKR, RCB",No,No
+CJ Dala,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+SC Kuggeleijn,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+S Midhun,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+O Thomas,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,Yes
+S Sandeep Warrier,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"GT, KKR",No,No
+CJ Green,Australia,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,KKR,No,Yes
+Monu Kumar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,Yes
+LI Meriwala,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,DC,No,Yes
+Jalaj S Saxena,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+IC Porel,West Indies,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,Yes
+Akash Singh,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"CSK, LSG, RR",No,No
+PH Solanki,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,No
+M Pathirana,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,CSK,No,No
+J Little,Irish,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,GT,No,No
+RS Hangargekar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,No
+NA Saini,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,RR,No,No
+Yash Thakur,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,Yes,No,Yes,No,No,"LSG, PBKS",No,No
+Suyash Sharma,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"KKR, RCB",No,No
+SSB Magala,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,CSK,No,No
+D Jansen,South Africa,Yes,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,No
+Gurnoor Brar,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,PBKS,No,No
+R Goyal,India,No,Bowler,Right-hand,None,No,No,No,No,No,No,No,No,Yes,No,No,MI,No,No
+H Sharma,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,RCB,No,No
+N Burger,South Africa,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,RR,No,No
+M Siddharth,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No
+MP Yadav,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No
+S Joseph,West Indies,Yes,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No
+N Thushara,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,"MI, RCB",No,No
+V Kaverappa,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,PBKS,No,No
+V Puthur,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+Zeeshan Ansari,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+Ashwani Kumar,India,No,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,MI,No,No
+E Malinga,Sri Lanka,Yes,Bowler,Right-hand,Medium Pace,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+Karim Janat,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,GT,No,No
+Harsh Dubey,India,No,Bowler,Right-hand,None,No,No,Yes,No,No,No,No,No,Yes,No,No,SRH,No,No
+W O'Rourke,New Zealand,Yes,Bowler,Right-hand,Fast,No,No,Yes,No,No,No,No,No,Yes,No,No,LSG,No,No

@@ -1,0 +1,160 @@
+/* ── IMPORTS ─────────────────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap');
+
+/* ── CSS VARIABLES ───────────────────────────────────────────────────────── */
+:root {
+  /* Colors — IPL stadium night palette */
+  --bg-primary:    #080c14;
+  --bg-secondary:  #0e1420;
+  --bg-card:       #131a26;
+  --bg-glass:      rgba(255,255,255,0.04);
+
+  --gold:          #f5a623;
+  --gold-light:    #ffc94d;
+  --gold-dim:      rgba(245,166,35,0.15);
+  --blue-accent:   #2d7cf6;
+  --green-accent:  #22c55e;
+  --red-accent:    #ef4444;
+
+  --text-primary:  #f0f4ff;
+  --text-secondary:#8896b0;
+  --text-dim:      #4a5568;
+
+  --border:        rgba(255,255,255,0.07);
+  --border-gold:   rgba(245,166,35,0.3);
+
+  /* Typography */
+  --font-display: 'Bebas Neue', cursive;
+  --font-body:    'DM Sans', sans-serif;
+  --font-mono:    'DM Mono', monospace;
+
+  /* Spacing */
+  --radius:       12px;
+  --radius-lg:    20px;
+}
+
+/* ── RESET ───────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Mobile-first responsive design */
+html {
+  font-size: clamp(14px, 2vw, 16px);
+}
+
+body {
+  font-family:      var(--font-body);
+  background-color: var(--bg-primary);
+  color:            var(--text-primary);
+  min-height:       100vh;
+  overflow-x:       hidden;
+  line-height:      1.6;
+  /* Subtle stadium light texture */
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(245,166,35,0.08) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 80% 100%, rgba(45,124,246,0.05) 0%, transparent 50%);
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── TYPOGRAPHY ──────────────────────────────────────────────────────────── */
+h1, h2, h3 { font-family: var(--font-display); letter-spacing: 0.04em; line-height: 1; }
+
+/* ── SCROLLBAR ───────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--gold-dim); border-radius: 4px; }
+
+/* ── UTILITY CLASSES ─────────────────────────────────────────────────────── */
+.glass {
+  background:   var(--bg-glass);
+  backdrop-filter: blur(12px);
+  border:       1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.gold-text { color: var(--gold); }
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: clamp(4px, 1vw, 6px) clamp(8px, 2vw, 12px);
+  border-radius: 100px;
+  font-size: clamp(0.6rem, 1.5vw, 0.75rem);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-family: var(--font-mono);
+}
+
+.badge-gold { background: var(--gold-dim); color: var(--gold); border: 1px solid var(--border-gold); }
+.badge-blue { background: rgba(45,124,246,0.15); color: #60a5fa; border: 1px solid rgba(45,124,246,0.3); }
+.badge-green { background: rgba(34,197,94,0.15); color: var(--green-accent); border: 1px solid rgba(34,197,94,0.3); }
+
+/* ── ANIMATIONS ──────────────────────────────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* ── RESPONSIVE BREAKPOINTS ──────────────────────────────────────────────── */
+/* Mobile: 0-480px | Tablet: 481-768px | Desktop: 769px+ */
+
+/* Small phones (landscape) adjustments */
+@media (max-width: 360px) {
+  html { font-size: 13px; }
+  body { overflow-x: hidden; }
+}
+
+/* Tablets and larger */
+@media (min-width: 769px) {
+  html { font-size: 16px; }
+}
+
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(245,166,35,0.4); }
+  50%       { box-shadow: 0 0 0 8px rgba(245,166,35,0); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes shimmer {
+  from { background-position: -200% center; }
+  to   { background-position: 200% center; }
+}
+
+@keyframes bar-fill {
+  from { width: 0%; }
+  to   { width: var(--target-width); }
+}
+
+.animate-fade-up  { animation: fadeUp 0.5s ease forwards; }
+.animate-fade-in  { animation: fadeIn 0.4s ease forwards; }
+
+/* ── BUTTON BASE ─────────────────────────────────────────────────────────── */
+button {
+  cursor: pointer;
+  border: none;
+  font-family: var(--font-body);
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+button:active { transform: scale(0.97); }

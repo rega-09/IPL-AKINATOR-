@@ -1,0 +1,46 @@
+# ── SCRAPING ───────────────────────────────────────────────────────────
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==4.9.3
+soupsieve==2.5
+
+# ── DATA PROCESSING ────────────────────────────────────────────────────
+pandas==1.5.3
+numpy==1.23.5
+python-dateutil==2.8.2
+six==1.16.0
+
+# ── AI / LLM ───────────────────────────────────────────────────────────
+httpx>=0.25.0
+httpcore==0.17.0
+anyio==3.6.2
+sniffio==1.3.0
+h11==0.14.0
+jiter==0.12.0
+distro==1.8.0
+google-cloud-aiplatform>=1.50.0
+
+# ── BACKEND API ────────────────────────────────────────────────────────
+fastapi==0.111.0          # FastAPI v2-compatible
+uvicorn==0.22.0
+starlette==0.37.2         # Matches FastAPI v2
+click==8.1.7
+
+# ── CONFIGURATION & VALIDATION ─────────────────────────────────────────
+python-dotenv==1.0.0
+pydantic==2.7.1           # Required for google-genai
+pydantic-core==2.18.2
+annotated-types==0.6.0
+typing_extensions>=4.14 # Required by anthropic
+typing-inspection==0.4.0
+
+# ── MISC ──────────────────────────────────────────────────────────────
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+urllib3==1.26.18
+docstring_parser==0.15
+annotated-doc==0.0.4
+google-genai==0.1.0       # Requires Pydantic v2
+
+firebase-admin==6.5.0

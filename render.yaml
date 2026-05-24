@@ -1,0 +1,55 @@
+# render.yaml
+# ─────────────────────────────────────────────────────────────────────────────
+# WHY THIS FILE?
+#   Render reads this to know exactly how to build and run your service.
+#   Without it, you configure everything manually in the dashboard.
+#   With it, your entire deployment config is version-controlled in Git.
+#
+# HOW TO USE:
+#   1. Push this file to GitHub
+#   2. In Render dashboard → New → Web Service → Connect GitHub repo
+#   3. Render detects this file automatically
+# ─────────────────────────────────────────────────────────────────────────────
+
+services:
+  - type: web
+    name: ipl-akinator-api
+    runtime: python
+    rootDir: ipl_akinator         # Backend lives in this subfolder
+
+    # Build command — runs once before startup
+    # WHY pip install here?
+    #   Render creates a fresh environment for each deploy.
+    #   requirements.txt ensures exact versions every time.
+    buildCommand: pip install -r requirements.txt
+
+    # Start command — runs on every startup
+    # WHY uvicorn directly and not python run.py?
+    #   run.py is for local development (adds project root to sys.path).
+    #   On Render, the rootDir is already the working directory,
+    #   so uvicorn can find api.main directly.
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+
+    # Environment variables — set these in Render dashboard
+    # WHY not hardcode here?
+    #   render.yaml is committed to Git — never put secrets in it.
+    #   Set these in Render dashboard → Environment tab instead.
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false               # Must be set manually in dashboard
+      - key: FIREBASE_CREDENTIALS
+        value: firebase/serviceAccountKey.json
+      - key: ALLOWED_ORIGINS
+        sync: false               # Set to your Firebase Hosting URL
+      - key: MAX_QUESTIONS
+        value: "8"
+      - key: CONFIDENCE_THRESHOLD
+        value: "0.80"
+      - key: PYTHON_VERSION
+        value: "3.11.0"
+
+    # Health check — Render pings this to verify service is alive
+    healthCheckPath: /health
+
+    # Auto-deploy on every push to main branch
+    autoDeploy: true

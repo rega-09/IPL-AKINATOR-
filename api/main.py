@@ -44,6 +44,7 @@ app = FastAPI(
         "An AI-powered IPL player guessing system. "
         "Think of any IPL cricketer — the AI will identify them "
         "in ≤8 questions using Bayesian probabilistic reasoning."
+        "the ai will try its best."
     ),
     version     = "1.0.0",
 
